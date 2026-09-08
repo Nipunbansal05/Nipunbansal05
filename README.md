@@ -25,23 +25,24 @@ Building projects, learning new technologies, and preparing for the next softwar
 
 ## 🧠 What I'm Doing Right Now
 
-🔨 Building **real-world Web & AI projects**
-🤖 Exploring **Generative AI, RAG, and AI-powered applications**
-💻 Practicing **Java & Data Structures and Algorithms**
-⚛️ Improving my **React.js and frontend development** skills
-☁️ Learning about **cloud deployment and modern development workflows**
-📚 Preparing for **technical interviews and software development roles**
+🔍 Solving problems on **LeetCode** to strengthen algorithmic thinking  
+📚 Practicing **Data Structures, Algorithms, and Java**  
+⚛️ Building small **React & Full-Stack projects** to improve practical skills  
+🤖 Exploring **Generative AI, RAG, and AI-powered applications**  
+🌱 Learning how real-world software systems work
 
 ---
 
 ## 🎯 Current Goals
 
-• 🧠 Strengthen **DSA & problem solving**
-• 💻 Become a strong **Full-Stack / Web Developer**
-• 🤖 Build more **AI-powered applications**
-• 🚀 Create production-ready projects
-• 🌐 Contribute to **open-source projects**
-• 💼 Get my first **Software Development opportunity**
+• Master **DSA for technical interviews**  
+• Become a strong **Full-Stack / Web Developer**  
+• Build **AI-powered projects**  
+• Contribute to **open source projects**  
+• Improve **problem solving speed and logic**  
+• Get my first **Software Development opportunity**
+
+---
 
 ---
 
