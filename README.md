@@ -17,11 +17,8 @@ Building projects, learning new technologies, and preparing for the next softwar
 # 👋 About Me
 
 💻 I'm a **Computer Science Engineering student** interested in **Web Development, Artificial Intelligence, and Software Engineering**.
-
 🚀 I enjoy turning ideas into practical projects and continuously improving my programming and problem-solving skills.
-
 🧠 Currently focusing on **Java, DSA, React, Full-Stack Development, and Generative AI**.
-
 🌱 Learning how real-world applications are designed, developed, deployed, and maintained.
 
 ---
@@ -29,15 +26,10 @@ Building projects, learning new technologies, and preparing for the next softwar
 ## 🧠 What I'm Doing Right Now
 
 🔨 Building **real-world Web & AI projects**
-
 🤖 Exploring **Generative AI, RAG, and AI-powered applications**
-
 💻 Practicing **Java & Data Structures and Algorithms**
-
 ⚛️ Improving my **React.js and frontend development** skills
-
 ☁️ Learning about **cloud deployment and modern development workflows**
-
 📚 Preparing for **technical interviews and software development roles**
 
 ---
@@ -45,15 +37,10 @@ Building projects, learning new technologies, and preparing for the next softwar
 ## 🎯 Current Goals
 
 • 🧠 Strengthen **DSA & problem solving**
-
 • 💻 Become a strong **Full-Stack / Web Developer**
-
 • 🤖 Build more **AI-powered applications**
-
 • 🚀 Create production-ready projects
-
 • 🌐 Contribute to **open-source projects**
-
 • 💼 Get my first **Software Development opportunity**
 
 ---
