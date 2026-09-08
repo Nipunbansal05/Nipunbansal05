@@ -6,8 +6,9 @@
 
 # 👋 Hey, I'm Nipun Bansal
 
-💻 Computer Science Engineering student passionate about **Web Development, AI, and Software Engineering**.
+💻 Computer Science Engineering student passionate about **Web Development, AI, and Software Engineering**.  
 🚀 Currently focused on **DSA, React, Full-Stack Development, and Generative AI**.
+
 ---
 
 # 👋 About Me
