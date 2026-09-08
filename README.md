@@ -206,6 +206,12 @@ I am actively working on improving my problem-solving skills through:
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=Nipunbansal05&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<!-- Profile README -->
+
 <div align="center">
 
 💡 *“Every day I try to become a better programmer than yesterday.”*
